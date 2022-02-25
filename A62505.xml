@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A threefold alphabet of rules, concerning Christian-practice the first precept of each letter concerning our duty toward God, the second towards our neighbour, the third towards our selves.</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62505</idno>
+            <idno type="STC">Wing T1126A</idno>
+            <idno type="STC">ESTC R39718</idno>
+            <idno type="EEBO-CITATION">18476730</idno>
+            <idno type="OCLC">ocm 18476730</idno>
+            <idno type="VID">107804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107804)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1644:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A threefold alphabet of rules, concerning Christian-practice the first precept of each letter concerning our duty toward God, the second towards our neighbour, the third towards our selves.</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Kidgell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: N.N.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:107804:1" rendition="simple:additions"/>
+            <head>A threefold Alphabet of Rules, concerning Chriſtian-Practice: The firſt Precept of each Letter concerning our Duty towards God, the ſecond towards our Neighbour, the third towards our ſelves.</head>
+            <div n="A" type="part">
+               <head>A.</head>
+               <p n="1">1. AWake with God in the Morning, and before all things, give him the firſt Fruits and Calves of your Lips. Firſt in confeſſing of ſins: Secondly in Petitioning of neceſſaries for Body and Soul: Thirdly, in thankfulneſs for Mercies received, eſpecially your late preſervation, reſt and protecti<g ref="char:EOLhyphen"/>on of you and yours. <hi>Joſh.</hi> 24. 15. <hi>Pſal.</hi> 101. 2.</p>
+               <p n="2">2. Account it not enough that your ſelf fear God, unleſs you ſee all in your charge do the ſame. <hi>Gen.</hi> 14, 14. and 18, 19.</p>
+               <p n="3">3. Arm your ſelf againſt whatſoever the day may bring forth, and upon all occaſi<g ref="char:EOLhyphen"/>ons think upon your happy Redemption, with much thankfulneſs for ſo happy a Con<g ref="char:EOLhyphen"/>junction of Juſtice and Mercy.</p>
+            </div>
+            <div n="B" type="part">
+               <head>B.</head>
+               <p n="1">1. Beware of occaſions of Sin, and wiſely inure your ſelf in ſubduing the leaſt ſin, that at leaſt the greater may be foiled. 1 <hi>Sam.</hi> 10.16.</p>
+               <p n="2">2. Believe all that God hath ſpoken unto you out of his Word, but not all that Man telleth you, nor tell to another all that you hear, but only the Truth, and that nei<g ref="char:EOLhyphen"/>ther all, nor allways. <hi>Eccl.</hi> 3. 7. <hi>Luke</hi> 2. 29.</p>
+               <p n="3">3. Before you take in hand any thing, Counſel with Gods word if it be lawful, and then perform it with Prayer, that it may be as ſucceſsful as lawful.</p>
+            </div>
+            <div n="C" type="part">
+               <head>C.</head>
+               <p n="1">1. Carefully ſet your ſelf in Gods preſence all the day long.</p>
+               <p n="2">2. Carry your ſelf unto all, as that the weak may be winned, the ſtrong comforted and the wicked aſhamed. 1 <hi>Cor.</hi> 10. 32. <hi>Col.</hi> 4, 5.</p>
+               <p n="3">3. Conſider the dignity of your Soul, how beautiful it is to God and his Angels, ſo long as you keep it unſpotted, that ſo you may cleanſe your heart from the hrſt motions of ſinful thoughts, as Luſt, Anger, Envy, Pride, Ambition, Covetouſneſs, Sullenneſs, and the rather becauſe the leaſt Sin deſerveth Death. <hi>Mat.</hi> 15.18. <hi>Eph.</hi> 4.23.31.<hi>Ccl.</hi> 3.5.8.</p>
+            </div>
+            <div n="D" type="part">
+               <head>D.</head>
+               <p n="1">1. Dayly, Morning and Evening at leaſt, ſolemnly on your knees make Confeſſion and requeſts with thankſgiving unto the Lord: In the Morning think that day may be your laſt day: and when you go to bed you know not whether you ſhall riſe again, unleſs it be to Judgment: It is ſafeſt therefore to uſe Prayer, as a Key to open the Morning, and as a Bar or Lock to ſhut in the Evening.</p>
+               <p n="2">2. Delight to do all the good to, and receive all the good you can from, Gods Children. <hi>Gal.</hi> 6. 10.</p>
+               <p n="3">3. Diſtruſt not Gods Providence in any lawful undertaking, although you ſee the means wanting, neither when you have them let them be relied on more than God him<g ref="char:EOLhyphen"/>ſelf, but let him be pray'd unto for the proſperous uſe of them. 1 <hi>Chron.</hi> 16. 9. 12. 1 <hi>Cor.</hi> 3. 5. and 3. 7.</p>
+            </div>
+            <div n="E" type="part">
+               <head>E.</head>
+               <p n="1">1. Exerciſe your mind in meditating often on the works of God, as his Creating and Governing of the World, his proſpering and puniſhing the wicked, his bleſſing and correcting of his Children, his preparing unſpeakable Joys for the one, and unutterable torments for the other. But eſpecially on the Sabbaoth, add to theſe Meditations the Holy exerciſe of Prayer, Preaching, holy conferences and the like. <hi>Jer.</hi> 12. 2. <hi>Hab.</hi> 2, 1. 2. <hi>Mat.</hi> 15. 31. <hi>Exod.</hi> 20. 8:</p>
+               <p n="2">2. Eſteem of every one better then your ſelf, and the more you excel another, be ſo much the more humble.</p>
+               <p n="3">3. Examine your Thoughts well whether they tend, before you fulfil your own De<g ref="char:EOLhyphen"/>ſires, if you find them unprofitable, curious, vain, or ſuch as you cannot yield a ſuffici<g ref="char:EOLhyphen"/>ent, reaſon to God or man for, kill them in the Shell, let them not live or breath in you any longer. <hi>Rom.</hi> 12. 16. <hi>Phil.</hi> 2.3. <hi>Rom.</hi> 14.23. <hi>Prov.</hi> 6.14. <hi>Zach.</hi> 8. 17. <hi>Pſ.</hi> 49.3.</p>
+            </div>
+            <div n="F" type="part">
+               <head>F.</head>
+               <p n="1">1. Eear God and keep his Commandments, for this is the whole Duty of Man. <hi>Eccl.</hi> 12. 13.</p>
+               <p n="2">2. Flie and avoid places and perſons Infectious, Wanton, Idle, unthriſty, and bad Company which are to the Soul as poiſoned and infected Air to the Body. <hi>Prov.</hi> 5. 8. and 6. 17. 18.</p>
+               <p n="3">3. Follow with faithfulneſs and diligence your own buſineſs in the lawful and pecu<g ref="char:EOLhyphen"/>liar Calling wherein God hath placed yon, only be careful in your Earthly buſineſs to carry a Heavenly mind. <hi>Eccl.</hi> 1.13. <hi>Gen.</hi> 3.19. 2 <hi>Theſ.</hi> 3. 6.</p>
+            </div>
+            <div n="G" type="part">
+               <head>G.</head>
+               <p n="1">1. Grow up daily in the practice of every Commandment, and in the Faith of every promiſe of God, ſeeing God would have thoſe that are planted in his Houſe thrive, and be fruitful in their old Age. He that is not beſt at laſt, may fear whether ever he were good. 1 <hi>Cor.</hi> 10.32.</p>
+               <p n="2">2. Give no offence to any man, whether within or without, for wo be to them by whom offences come. <hi>Rom.</hi> 14. 13.</p>
+               <p n="3">3. Grieve for nothing in the world ſo much as for your own ſins, and in them, for nothing ſo much as in offending ſo loving a God, and that not only in committing of evil but in omitting of good. <hi>Rom.</hi> 7. 8.</p>
+            </div>
+            <div n="H" type="part">
+               <head>H.</head>
+               <p n="1">1. Humble your ſelf for your ſins that the Lord may raiſe you up, for he that judg<g ref="char:EOLhyphen"/>eth himſelf aright, ſhall never be judged of the Lord. 1 <hi>Cor.</hi> 11. 31.</p>
+               <p n="2">2. Honour all men in their places, but no man ſo much for his greatneſs as for his goodneſs, and thus ſhall you immitate the Lord himſelf who accepteth not perſons but in every Nation accepteth him that feareth him. <hi>Acts</hi> 10. 31.</p>
+               <p n="3">3. Have ſpecial care to avoid the ſins which you have found your ſelf moſt inclined unto, and which hath in times paſt prevailed, for ſin is loth to be ſaid nay.</p>
+            </div>
+            <div n="I" type="part">
+               <head>I.</head>
+               <p n="1">1. Juſtify Gods wiſdom in all his proceedings concerning your ſelf and others, his Power in ſuſtaining, his Providence in maintaining, his Juſtice in puniſhing, his Love for correcting, his Bounty in promiſing, his Faithfulneſs in performing, his Grace in giving, his Mercy in taking away, and in every thing ſay from thy Heart bleſſed be the Name of the Lord.</p>
+               <p n="2">2. In every Company do ſome good and receive ſome alſo, give no cauſe to be ill ſpoken of, neither do any hurt by Speech, Silence, Countenance, or Example; but in your praiſes be diſcreet, in admoniſhing brotherly, and wiſe in moving and holding up profitable Diſcourſe or Conference.</p>
+               <p n="3">3. It is fearful to ſin, but much more to lie in it, therefore regiſter all your ſins day<g ref="char:EOLhyphen"/>ly, bewail them, pray for Pardon of them, and ſtrength againſt them, contemn no ſin by counting it little, becauſe Gods Law hath condemned it, and Chriſt hath died for it. <hi>Pſal.</hi> 51. 3. <hi>Eph.</hi> 4. 26.</p>
+            </div>
+            <div n="K" type="part">
+               <head>K.</head>
+               <p n="1">1. Know God in Chriſt, which is Life everlasting, Kiſs ye the Son of God, leſt he be angry, and know your ſelf to be a Believer, and that Chriſt is in you, and you in him. <hi>Job</hi> 17. 3, <hi>Pſal.</hi> 2. 12.</p>
+               <p n="2">2. Keep as your Vows with God, ſo your lawful promiſes with men, for Faith and Truth muſt kiſs each other in Chriſtian Converſation. <hi>Pſal.</hi> 15.4.</p>
+               <p n="3">3. Keep out wandring and worldly thoughts, and unclean thoughts, as much as poſſible, narrowly watching your heart, for ſuch as you ſuffer that to be, ſuch will be your words, deeds and converſation, <hi>Prov.</hi> 4. 23.</p>
+            </div>
+            <div n="L" type="part">
+               <head>L.</head>
+               <p n="1">1. Love all things for Gods ſake, and God only for his own; and look you make him your Friend, whoſoever be your Enemy for it, this you ſhould do, if as an obedi<g ref="char:EOLhyphen"/>ent Child you live in the Eye of your Heavenly Father.</p>
+               <p n="2">2. Look on the Lives of the Wicked to avoid them, of the Godly to imitate them, upon the Life and Death of them both, as alſo your own not far off, to make you loath this world and long after the Life to come. <hi>Luke</hi> 21. 34.</p>
+               <p n="3">3. Let your Meat, Apparel, and Recreation be Lawful, needful and moderate. <hi>Rom.</hi> 13. 13.</p>
+            </div>
+            <div n="M" type="part">
+               <head>M.</head>
+               <p n="1">1. Make no mention of God, or any word or work of his, but with Fear and Re<g ref="char:EOLhyphen"/>verence, nor of any Man but with Love, and carefulneſs, uſing his Name as you would have him to uſe yours. <hi>Deut.</hi> 28. 58. <hi>Mat.</hi> 7. 12.</p>
+               <p n="2">2. Mark other mens profitting in Religion to provoke your ſelf, their ſteps to make your ſelf more wary, their riſing to be thankful to God for them.</p>
+               <p n="3">3. Meditate often on the four laſt things Death, Judgment, Heaven, Hell.</p>
+            </div>
+            <div n="N" type="part">
+               <head>N.</head>
+               <p n="1">1. Never make more ſhow of Knowledge outwardly then inwardly you have in your heart, which God ſeeth, in which he deſireth Truth, nor pleaſe your ſelf with your anprofitableneſs, unfitneſs, unwillingneſs to good. <hi>Rom,</hi> 12. 21.</p>
+               <p n="2">2. No man is owner but Steward of that which he hath; you muſt therefore impart of the Bleſſings you have, to thoſe that ſtand in need; wiſely, heartily, and in due ſeaſon.</p>
+               <p n="3">3. Note your own ſpecial corruptions, whether they grow ſtronger or weaker, and how your ſelf can reſiſt them, and if any aſſault you more ſtrongly, pray, and make the matter known to God, who hath ſaid ſin ſhall not have Dominion over you. 1 <hi>Cor.</hi> 11. 28. <hi>Rom.</hi> 6. 14.</p>
+            </div>
+            <div n="O" type="part">
+               <head>O.</head>
+               <p n="1">1. Often ſpeak to the praiſe of God, never of your ſelf, becauſe many words want not ſin, ſpeak as few as you can, or rather none, then unprofitable. <hi>Prov.</hi> 17.27. &amp; 10. 19.</p>
+               <p n="2">2. Open not your Mouth to ſpeak of other men's Infirmities, eſpecially behind them, nor before them without grief and ſorrow. <hi>Jam.</hi> 1. 19. <hi>Pſal.</hi> 15. 3.</p>
+               <p n="3">3. Of every idle word account muſt be given, and much more of every wicked word, and therefore let your Speech tend to edification. 2 <hi>Tim.</hi> 2. 3. <hi>Mat.</hi> 18. 11. &amp; 12. 36.</p>
+            </div>
+            <div n="P" type="part">
+               <head>P.</head>
+               <p n="1">1. praiſe the Lord for every new Benifit beſtowed, and then by it promote his Glory, the Churches good, and your own Salvation; eſteeming of Graces given as ſpurs to Godlineſs, and pledges of eternal Life. 1 <hi>Theſ.</hi> 5. 18.</p>
+               <p n="2">2. Prevent anger before it kindle, its wiſdom to quench the firſt ſpark of Fire be<g ref="char:EOLhyphen"/>fore it begin to flame. Conſider firſt the Original of Anger, being Pride or ſelf-love, ſecondly, the curſed Fruits, by giving place to the Devil; thirdly Gods patience, fourth<g ref="char:EOLhyphen"/>ly Gods Image in your Brother, fifthly your own weakneſs in the ſame kind, ſixthly, the wrong is not remedied by Revenge, but enlarged, nor the wrong doer, amended but imitated. <hi>Eccl.</hi> 7. 11. <hi>Prov.</hi> 14. 17.</p>
+               <p n="3">3. Prepare your ſelf for Death, and pull out his ſting, by firſt bewailing ſins paſt. Se<g ref="char:EOLhyphen"/>condly by turning to God in time to come. Thirdly by purpoſing a new Life. None can die ill, that hath care to live well. Perſwade your ſelf if you live well, you ſhall do well; but if you die well, doubt not but you ſhall do better. 1 <hi>Cor.</hi> 15. 16.</p>
+            </div>
+            <div n="Q" type="part">
+               <head>Q.</head>
+               <p n="1">1. Quiet your heart and be ſtill under the correcting hand of God: becauſe 1. He doth it. 2. For the beſt. 3. He will moderate it. 4. Supply ſtrength. 5. Seaſonably deliver out of it, <hi>Pſal.</hi> 39. 9.</p>
+               <p n="2">2. Queſtion not whether others ſhould do you good, or you them firſt; it is praiſe worthy to be firſt in well doing, and if you do good to your Enemies your reward is with God, <hi>Mat.</hi> 5.36. <hi>Rom.</hi> 12. 20.</p>
+               <p n="3">3. Quench not the Spirit, nor ſuffer any godly motion ariſing in your heart to paſs away but feed it by Reading, Meditation, Prayer, and Practice, 1 <hi>Theſ.</hi> 5. 19.</p>
+            </div>
+            <div n="R" type="part">
+               <head>R.</head>
+               <p n="1">1. Read ſomething dayly of Gods word for the increaſe of Knowledge, and add un<g ref="char:EOLhyphen"/>to Meditation and Prayer, for all time thus ſpent is well redeemed, <hi>Pſal.</hi> 12. <hi>Deut.</hi> 6. 6.</p>
+               <p n="2">2. Rejoyce in the good you know by any other, praiſe God for it, pray for the in<g ref="char:EOLhyphen"/>creaſe of it, but if you know any evil by any, mourn for it, and if you can by Brotherly love and admonition amend it.</p>
+               <p n="3">3. Reform your Ears, Eyes, Mouth, and Hands, from hearing, ſeeing, ſpeaking or per<g ref="char:EOLhyphen"/>forming, any wicked and vain thing, knowing that die you muſt but how ſoon you know not, <hi>Job</hi> 31. 1. <hi>Pſ.</hi> 119. 37.</p>
+            </div>
+            <div n="S" type="part">
+               <head>S.</head>
+               <p n="1">1. Stick to God as well in adverſity as in proſperity: if you want neceſſaries humble your ſelf for them, if you have them be humble with them, and uſe them well leaſt you forfeit them, <hi>James</hi> 2. 2.</p>
+               <p n="2">2. Seek reconciliation with your Neighbour, freely forgive thoſe that have offended you, and deſire earneſtly to be forgiven of all that have been offended by you. <hi>Mat.</hi> 5. 23. <hi>Pſ.</hi> 35. 14.</p>
+               <p n="3">3. Study to approve both your heart to God, and your life to Gods Children in your particular callings, and eſpecially to ſuch as to home God hath joyned you, if as a Ser<g ref="char:EOLhyphen"/>vant in obeying, if a Maſter in Ruling, if an Husband in loving, if a Wife in reveren<g ref="char:EOLhyphen"/>cing, <hi>Mat.</hi> 23. 26. <hi>Jer.</hi> 7. 9. <hi>Eph.</hi> 5. 35. &amp; 6. 5. 6.</p>
+            </div>
+            <div n="T" type="part">
+               <head>T.</head>
+               <p n="1">1. Take heed of performing Holy duties for faſhion's ſake, without feeling profit, for this is Hyprocriſie, <hi>Heb.</hi> 3.22.</p>
+               <p n="2">2. Thankfully require the good you get by any Man, either 1ſt by acknowledgment. Or 2. by hearty affection. Or, 3. by Prayer, <hi>Iſa.</hi>1. 11. <hi>Mat.</hi> 5. 8.</p>
+               <p n="3">3. Think it the greateſt work in the World to die well, becauſe its a thing that muſt but once be done, and if not well done then thou art for ever undone: to die well you muſt inure your ſelf to it before hand. 1. by dying to ſin. 2. leaving the World in affection, before it actually leavth you. 3. in your laſt leaving of it, do it willingly, joyfully whereſoever, whenſoever or howſoever God ſhall call you, <hi>Rom.</hi> 12. 6. &amp; 1.12.</p>
+            </div>
+            <div n="V" type="part">
+               <head>V.</head>
+               <p n="1">1. Vow to God and keep it, eſpecially ſtrive in performing the ſolemn Vow of your Baptiſm, and the Covenant which you renew at the Lords Supper. <hi>Eccl.</hi> 5.34. <hi>Pſ.</hi> 116.14.</p>
+               <p n="2">2. Varience and diſcord with Men will not ſtand with your Peace with God, if you love God you will love Men alſo for God's Image or elſe for his Commandments ſake. <hi>Job.</hi> 1. 4. 20.</p>
+               <p n="3">3. Uſe the world as not uſing it; That is not gained which is got with the loſs of the Soul. What will you pamper and prepare for your Body, that piece of dirt, and neg<g ref="char:EOLhyphen"/>lect your immortal Soul, which muſt ever live either in endleſs Joy or in an unquench<g ref="char:EOLhyphen"/>erable Fire? Oh horrible Folly! 1 <hi>Cor.</hi> 7. 31. <hi>Mat.</hi> 16. 26.</p>
+            </div>
+            <div n="W" type="part">
+               <head>W.</head>
+               <p n="1">1. Wait upon the Lord and he will direct your way, become his Servant for this is the way to attain your ſureſt liberty, <hi>Pſ.</hi> 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 34.</p>
+               <p n="2">2. Weep with them that weep, and fellow-feell the afflictions of the Bretheren in the World; Chriſt in Heaven accounteth the ſuffering of his Saints his own, and we his Members on Earth muſt do the ſame. Religion and Mercy are well match't by God, and by Man muſt not be divorced. <hi>Pſ.</hi> 69. 9. <hi>Ezck.</hi> 9. 4. <hi>Jer.</hi> 13. 17.</p>
+               <p n="3">3. Wiſh not a long life, ſo much as a good life: he hath lived long who hath lived well. A ſhort life in Grace ſettleth into the Everlaſting life of Glory.</p>
+            </div>
+            <closer>Sit Deo laus in ſecula ſeculorum. Amen.</closer>
+            <closer>
+               <signed>N. N.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Kidgell</hi> at the <hi>Atlas</hi> in <hi>Cornhill,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
